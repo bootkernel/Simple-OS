@@ -1,0 +1,8 @@
+# Simple-OS
+A simple operating system which displays "What's up?" instead of "Hello World!" when it boots up.
+
+I was planning to upload a bare bones os made from scratch to github during the weekend and this seemed to be a very straightforward process. If I have more time then I'll implement a terminal in this with some simple commands.
+
+I used OS Dev Wiki's tutorial on https://wiki.osdev.org/Main_Page as a guide to speed things up.
+
+The extensions, .s and .asm denote assemble language.
