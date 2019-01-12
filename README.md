@@ -5,4 +5,4 @@ I was planning to upload a bare bones os made from scratch to github during the 
 
 I used OS Dev Wiki's tutorial on https://wiki.osdev.org/Main_Page as a guide to speed things up.
 
-The extensions, .s and .asm denote assembly language.
+The extensions, .s and .asm denote assembly language. 
